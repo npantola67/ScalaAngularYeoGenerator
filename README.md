@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # generator-ScalaAngular [![Build Status](https://secure.travis-ci.org/npantola67/generator-scalaangular.png?branch=master)](https://travis-ci.org/npantola67/generator-scalaangular)
 
 > [Yeoman](http://yeoman.io) generator
@@ -46,9 +45,3 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 ## License
 
 MIT
-=======
-ScalaAngularYeoGenerator
-========================
-
-A Scala and Angular Yeoman generator to setup projects with the Play! framework
->>>>>>> 56d72358134d1a39ae813947ab796948e6688456
